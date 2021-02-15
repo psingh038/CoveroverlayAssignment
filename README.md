@@ -19,7 +19,4 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 # Help
-Run following commands one by one to install packages,
-$ npm install jquery --save
-$ npm install slick-carousel --save
-$ npm install ngx-slick-carousel --save
+ 
