@@ -1,6 +1,6 @@
 # CoverOverLay carousel
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.with ngX slick library.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 # Development server
 
