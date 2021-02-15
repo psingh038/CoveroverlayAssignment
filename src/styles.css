@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+/* .slick-list{
+    height: 65vh !important;
+  top: 75px;
+  position: relative;
+  } */
+  
+/* .slick-list.draggable{
+    padding: 0% 60% !important;
+} */
+. body{
+    overflow-x: hidden;
+    background-color: #F5F5F5;
+    font-family: system-ui;
+    margin: 0;
+}

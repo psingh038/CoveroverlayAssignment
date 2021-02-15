@@ -1,0 +1,19 @@
+.container-body{
+    position: relative;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: #f6cdcd;
+  }
+  
+
+ .container{
+    background-image: repeating-linear-gradient(to right, #e7f5f6, #d6eaec 10%);
+  }
+
+.slide-wrapper{  
+  display:flex;
+  justify-content: center;
+  margin-top: 30px;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "angular-es-carousel",
+  "homepage": "https://github.com/EugeneSnihovsky/angular-carousel",
+  "_release": "182ee9ebbc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "182ee9ebbc5a9211cb60fa02f8b537f2b798f5dc"
+  },
+  "_source": "https://github.com/EugeneSnihovsky/angular-carousel.git",
+  "_target": "*",
+  "_originalSource": "angular-es-carousel",
+  "_direct": true
+}
